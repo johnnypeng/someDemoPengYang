@@ -1,0 +1,10 @@
+*.class
+*/*.iml
+*.iml
+*/.idea
+.idea
+*/*.ipr
+*.ipr
+*/*.iws
+*.iws
+out
